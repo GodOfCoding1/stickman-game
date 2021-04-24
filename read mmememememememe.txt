@@ -1,0 +1,4 @@
+when the cmd window comes click it and type number of blades then press enter
+make sure it is an integer
+after that wait 2 seconds then click on the game window
+play with arrow keys
